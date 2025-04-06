@@ -21,4 +21,19 @@ Bu repo, **Fuad441** tərəfindən yaradılmış bir layihədir. Burada, layihə
 ## İstifadə:
 1. `npm start` ilə layihəni işə salın.
 
+    Fuad441 Repo
+
+👋 Hi, I’m @Fuad441  
+👀 I’m interested in ... *(Burada maraqlandığınız mövzuları və ya texnologiyaları qeyd edə bilərsiniz)*  
+🌱 I’m currently learning ... *(Hansı dillərdə və ya texnologiyalarda öyrənirsiniz?)*  
+💞️ I’m looking to collaborate on ... *(Hansı layihələrdə əməkdaşlıq etmək istəyirsiniz?)*  
+📫 How to reach me ... *(Əlaqə qurmaq üçün e-poçt ünvanı və ya sosial media bağlantısı)*  
+😄 Pronouns: ... *(Cinsiyyətinizi müəyyən edən əvəzliklər)*  
+⚡ Fun fact: ... *(Layihəniz və ya özünüz haqqında maraqlı bir fakt)*  
+
+## Quraşdırma
+
+1. Repo-nu lokal kompüterinizə yükləyin:
+   ```bash
+   git clone https://github.com/Fuad441/Fuad441.git
    
